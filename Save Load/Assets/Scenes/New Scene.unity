@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0328d83bc67963048847148197163076, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResourceService
-  _loaderComponent: {fileID: 958844573}
+  _resourcesLoader: {fileID: 958844576}
 --- !u!4 &958844574
 Transform:
   m_ObjectHideFlags: 0
